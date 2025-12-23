@@ -1,0 +1,159 @@
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+
+.filtersContainer {
+  display: flex;
+  flex-direction: column;
+  width: 28%;
+  height: 100vh;
+  gap: 12px;
+  padding: 10px;
+  background-color: #fff;
+}
+
+
+.cusContainer {
+  height: 60px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding-left: 10px;
+}
+
+.customCheck1 {
+  font-family: system-ui, sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+
+.IDEALContainer {
+  width: 100%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.customCheck {
+  font-family: system-ui, sans-serif;
+  font-weight: 700;
+  font-size: 14px;
+}
+
+.unselect {
+  font-family: system-ui, sans-serif;
+  font-size: 13px;
+  color: #7777778f;
+  cursor: pointer;
+}
+
+
+.selcont {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  height: 30px;
+
+}
+
+
+.slectcont2 {
+  width: 100%;
+  height: 9vh;
+  font-size: 14px;
+  font-family: system-ui, sans-serif;
+
+  background-color: #fff;
+  border-color: transparent;
+  font-weight: bold;
+
+}
+
+
+
+
+
+option {
+  font-size: 14px;
+}
+
+
+.slectcont3 {
+  width: 100%;
+  height: 9vh;
+  font-size: 14px;
+  font-family: system-ui, sans-serif;
+
+  background-color: #fff;
+  border-color: transparent;
+  font-weight: bold;
+  
+}
+
+.slectcont4 {
+  width: 100%;
+  height: 9vh;
+  font-size: 14px;
+  font-family: system-ui, sans-serif;
+
+  background-color: #fff;
+  border-color: transparent;
+  font-weight: bold;
+  
+}
+
+.slectcont5 {
+  width: 100%;
+  height: 9vh;
+  font-size: 14px;
+  font-family: system-ui, sans-serif;
+
+  background-color: #fff;
+  border-color: transparent;
+  font-weight: bold;
+  
+}
+
+.slectcont6 {
+  width: 100%;
+  height: 9vh;
+  font-size: 14px;
+  font-family: system-ui, sans-serif;
+
+  background-color: #fff;
+  border-color: transparent;
+  font-weight: bold;
+  
+}
+
+.slectcont7 {
+  width: 100%;
+  height: 9vh;
+  font-size: 14px;
+  font-family: system-ui, sans-serif;
+
+  background-color: #fff;
+  border-color: transparent;
+  font-weight: bold;
+  
+}
+
+.slectcont8 {
+  width: 100%;
+  height: 9vh;
+  font-size: 14px;
+  font-family: system-ui, sans-serif;
+
+  background-color: #fff;
+  border-color: transparent;
+  font-weight: bold;
+  
+}
+
